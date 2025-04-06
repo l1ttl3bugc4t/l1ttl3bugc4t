@@ -26,8 +26,7 @@
 
 ## 💌 Conecta conmigo
 
-🐾 Discord: `l1ttl3bugc4t#XXXX`  
-🐾 Mastodon/Twitter: @l1ttl3bugc4t
+🐾 Linktree: https://linktr.ee/l1ttl3bugc4t 
 
 ---
 
