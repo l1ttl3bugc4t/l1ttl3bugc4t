@@ -1,5 +1,5 @@
 <h1 align="center">🐾 l1ttl3bugc4t</h1>
-<p align="center"><i>A ghost in the system... cloud-native, kitten-powered.</i></p>
+<p align="center"><i>A ghost in the system... kitten-powered and stealthy.</i></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/l1ttl3bugc4t/assets/main/banner.gif" alt="banner" width="80%" />
@@ -9,9 +9,9 @@
 
 ## 🌸 Sobre mí
 
-✨ Hacker felina especializada en red team, automatización y seguridad en la nube.  
+✨ Hacker felina especializada en red team, automatización y herramientas ofensivas.  
 🔭 Siempre en busca de vulnerabilidades que ronronean antes de atacar.  
-☁️ Cloud Security | 🛠️ Offensive Tools | 🎀 Personal Style  
+🛠️ Offensive Tools | 🎀 Personal Style  
 💜 Voluntaria en WoSEC México
 
 ## 💼 Proyecto destacado
@@ -32,3 +32,10 @@
 ---
 
 > “Paws before claws. Always.” – l1ttl3bugc4t
+
+```
+          |\      _,,,---,,_
+    ZZzz  /,`.-'`'    -.  ;-;;,_
+         |,4-  ) )-,_. ,\ (  `'-'
+        '---''(_/--'  `-'\_)
+```
