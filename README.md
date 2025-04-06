@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">🐾 l1ttl3bugc4t</h1>
+<p align="center"><i>A ghost in the system... cloud-native, kitten-powered.</i></p>
 
-<!--
-**l1ttl3bugc4t/l1ttl3bugc4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/l1ttl3bugc4t/assets/main/banner.gif" alt="banner" width="80%" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 Sobre mí
+
+✨ Hacker felina especializada en red team, automatización y seguridad en la nube.  
+🔭 Siempre en busca de vulnerabilidades que ronronean antes de atacar.  
+☁️ Cloud Security | 🛠️ Offensive Tools | 🎀 Personal Style  
+💜 Voluntaria en WoSEC México
+
+## 💼 Proyecto destacado
+
+- 🐱 [`purpl35p4c3`](https://github.com/l1ttl3bugc4t/purpl35p4c3) – Hacking tools con estética felina
+
+## ✨ Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=l1ttl3bugc4t&show_icons=true&theme=radical&count_private=true)
+
+---
+
+## 💌 Conecta conmigo
+
+🐾 Discord: `l1ttl3bugc4t#XXXX`  
+🐾 Mastodon/Twitter: @l1ttl3bugc4t
+
+---
+
+> “Paws before claws. Always.” – l1ttl3bugc4t
