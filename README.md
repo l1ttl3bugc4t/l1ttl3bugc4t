@@ -2,7 +2,7 @@
 <p align="center"><i>A ghost in the system... kitten-powered and stealthy.</i></p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/l1ttl3bugc4t/assets/main/banner.png" alt="banner" width="80%" />
+  <img src="banner.png" alt="banner" width="80%" />
 </p>
 
 ---
